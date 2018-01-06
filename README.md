@@ -68,5 +68,5 @@ thank you too
 
 makermusings https://github.com/makermusings/fauxmo <br>
 skiwithpete https://www.youtube.com/watch?v=3u45htuQeag <br>
-Mike and Lauren https://www.youtube.com/channel/UC7kRD_HaTF9t17PZC7QN6iw
+Mike and Lauren https://www.youtube.com/watch?v=rikUkvyDRGg&t=84s
 
