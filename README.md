@@ -1,5 +1,5 @@
 # Relay-Control-anything
-Control a Rasperry PI and a Relay with intranet / Amazon Echo / Google home 
+Control a Raspberry PI and a Relay with intranet / Amazon Echo / Google home 
 
 use this image to start it is the best one to work with
 
