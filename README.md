@@ -1,7 +1,7 @@
 # Relay-Control-anything
 Control a Raspberry PI and a Relay with intranet / Amazon Echo / Google home 
 
-I used this image to start it is the best one to work with
+I used this image to start
 
 2015-11-21-raspbian-jessie.img
 
@@ -38,8 +38,8 @@ sudo nano fauxmo.py
 name your relay you want to comtrol near the bottom of page
 alt X and y to save
 
-open a browser and type the ip address of the Pi 
-http://000.000.000.000/index.php
+open a browser and type the ip address of the Pi<br> 
+http://000.000.000.000/index.php <br>
 make sure the web site comes up
 
 sudo apt-get upgrade
@@ -62,5 +62,5 @@ sudo reboot
 
 sudo systemctl status myscript.service
 
-ask alexa to discover and the relat name will come up
+ask alexa to discover and the relay name will come up
 
