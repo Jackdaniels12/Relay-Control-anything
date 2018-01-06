@@ -63,3 +63,6 @@ sudo systemctl enable myscript.service
 sudo reboot
 
 sudo systemctl status myscript.service
+
+ask alexa to discover and the relat name will come up
+
