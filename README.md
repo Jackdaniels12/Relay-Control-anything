@@ -28,7 +28,7 @@ alt X then Y to save
 
 Add these files to /home/pi 
 
-lighton_1.py
+lighton_1.py<br>
 Lighton_2.py
 lightoff_1.py
 lightoff_2.py
