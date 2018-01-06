@@ -1,7 +1,7 @@
 # Relay-Control-anything
 Control a Rasperry PI and a Relay with intranet / Amazon Echo / Google home 
 
-use this image to start it the best one to work with
+use this image to start it is the best one to work with
 
 2015-11-21-raspbian-jessie.img
 
@@ -15,7 +15,7 @@ sudo apt-get install apache2 php5 libapache2-mod-php5
 
 sudo service apache2 restart
 
-sudo nano /etc/sudoers
+sudo nano /etc/sudoers<br>
  add to bottom of file:  www-data ALL=(root) NOPASSWD:ALL
 
 alt X then Y
