@@ -64,3 +64,9 @@ sudo systemctl status myscript.service
 
 ask alexa to discover and the relay name will come up
 
+thank you too
+
+makermusings https://github.com/makermusings/fauxmo
+skiwithpete https://www.youtube.com/watch?v=3u45htuQeag
+Mike and Lauren https://www.youtube.com/channel/UC7kRD_HaTF9t17PZC7QN6iw
+
