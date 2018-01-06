@@ -46,6 +46,8 @@ sudo apt-get upgrade
 
 sudo reboot
 
+To run the PI headless use the below file / commands
+
 sudo nano /lib/systemd/system/myscript.service
 
 alt x then y to save
