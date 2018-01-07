@@ -5,6 +5,8 @@ I used this image to start
 
 2015-11-21-raspbian-jessie.img
 
+SSH in to your PI
+
 sudo apt-get update 
 
 sudo apt-get install python-dev
