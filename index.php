@@ -27,7 +27,7 @@ exec("sudo python /home/pi/lightoff_2.py");
 }
 ?>
 
-<p style="color:orange;">Desk Light.</p>
+<p style="color:orange;">Desk Light.</p> #edit here
 <form method="post">
 <button class="btn" name="LightOFF">Light OFF</button>&nbsp;
 <button class="btn" name="LightON">Light ON</button><br><br>
