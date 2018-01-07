@@ -35,8 +35,14 @@ fauxmo.py<br>
 
 For Alexa / Google to control the relay below
 
-sudo nano fauxmo.py
-name your relay you want to comtrol near the bottom of page
+sudo nano fauxmo.py <br>
+name your relay you want to control near the bottom of page <br>
+FAUXMOS = [ <br>
+    # use GPIO pin 15 17 or 4 to trigger a relay <br>
+	['Counter Light', gpio_handler(15)], <br>
+	['Floor Light', gpio_handler(17)], <br>
+	#['The Camera', gpio_handler(4)], <br>
+] <br>
 ctrl X and y to save
 
 open a browser and type the ip address of the Pi<br> 
