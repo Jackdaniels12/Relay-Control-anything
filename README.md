@@ -21,6 +21,7 @@ sudo nano /etc/sudoers<br>
 crtl X then Y
 
 sudo nano /var/www/html/index.php
+copy my file and paste it
 
 crtl X then Y to save
 
