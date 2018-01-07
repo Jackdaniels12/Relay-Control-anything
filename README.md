@@ -42,6 +42,8 @@ open a browser and type the ip address of the Pi<br>
 http://000.000.000.000/index.php <br>
 make sure the web site comes up
 
+Go grab some food this will be awhile
+
 sudo apt-get upgrade
 
 sudo reboot
