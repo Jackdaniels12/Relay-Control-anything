@@ -18,11 +18,11 @@ sudo service apache2 restart
 sudo nano /etc/sudoers<br>
  add to bottom of file:  www-data ALL=(root) NOPASSWD:ALL
 
-alt X then Y
+crtl X then Y
 
 sudo nano /var/www/html/index.php
 
-alt X then Y to save
+crtl X then Y to save
 
 Add these files to /home/pi 
 
@@ -32,11 +32,11 @@ lightoff_1.py<br>
 lightoff_2.py<br>
 fauxmo.py<br>
 
-Alexa / Google file
+For Alexa / Google to control the relay below
 
 sudo nano fauxmo.py
 name your relay you want to comtrol near the bottom of page
-alt X and y to save
+ctrl X and y to save
 
 open a browser and type the ip address of the Pi<br> 
 http://000.000.000.000/index.php <br>
@@ -50,7 +50,7 @@ To run the PI headless use the below file / commands
 
 sudo nano /lib/systemd/system/myscript.service
 
-alt x then y to save
+crtl x then y to save
 
 ExecStart=/usr/bin/python /home/pi/fauxmo.py > /home/pi/fauxmo.log 2>&1
 
