@@ -29,6 +29,7 @@ edit the name of the lights
 crtl X then Y to save
 
 Add these files to /home/pi 
+I use Winscp for this
 
 lighton_1.py<br>
 Lighton_2.py<br>
