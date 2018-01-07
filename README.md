@@ -59,7 +59,7 @@ sudo reboot
 To run the PI headless use the below file / commands
 
 sudo nano /lib/systemd/system/myscript.service <br>
-copy my file and paste it
+copy my file "myscript.service" and paste it
 
 crtl x then y to save
 
