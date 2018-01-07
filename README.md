@@ -21,7 +21,8 @@ sudo nano /etc/sudoers<br>
 crtl X then Y
 
 sudo nano /var/www/html/index.php <br>
-copy my file and paste it
+copy my file "index.php" and paste it to your file<br>
+edit the name of the lights
 
 crtl X then Y to save
 
