@@ -7,6 +7,8 @@ I used this image to start
 
 SSH in to your PI
 
+sudo rasp-cfg expand file system
+
 sudo apt-get update 
 
 sudo apt-get install python-dev
